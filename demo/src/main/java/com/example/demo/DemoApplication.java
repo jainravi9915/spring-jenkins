@@ -7,13 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.logging.Logger;
 
 @SpringBootApplication
+
 public class DemoApplication {
 
-
-//	public static Logger logger= LoggerFactory.getLogger(DemoApplication.class);
+//	Logger logger=LoggerFactory.getLogger(DemoApplication.class);
 
 	public static void main(String[] args) {
-		System.out.println("App Started !!");
+		sdfisdf
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
